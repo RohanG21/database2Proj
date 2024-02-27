@@ -1,1 +1,1 @@
-Blank file
+for part one of stage two of the project, all that is required is the creation ofa dtabse named DB2 whose base user is root and they have no password, then we need to import  database and have atleast 5 inputs for each table in the database, that is all.-james
