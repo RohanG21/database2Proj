@@ -9,3 +9,5 @@
 
         <a href = "register.php"> register as a new user</a> <br> <br>
         </form>
+    </div>
+</html>
